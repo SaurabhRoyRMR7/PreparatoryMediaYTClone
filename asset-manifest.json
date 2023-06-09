@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PreparatoryMediaYTClone/static/css/main.7064deb2.css",
+    "main.js": "/PreparatoryMediaYTClone/static/js/main.6f6d284e.js",
+    "index.html": "/PreparatoryMediaYTClone/index.html",
+    "main.7064deb2.css.map": "/PreparatoryMediaYTClone/static/css/main.7064deb2.css.map",
+    "main.6f6d284e.js.map": "/PreparatoryMediaYTClone/static/js/main.6f6d284e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.6f6d284e.js"
+  ]
+}
